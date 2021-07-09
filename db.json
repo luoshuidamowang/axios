@@ -1,0 +1,23 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "json-server22",
+      "author": "typicode"
+    },
+    {
+      "title": "aaa",
+      "author": "bbb",
+      "id": 3
+    },
+    {
+      "title": "xmt",
+      "author": "haoshuai",
+      "id": 4
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
